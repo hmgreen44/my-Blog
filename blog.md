@@ -15,7 +15,7 @@ Github also proved to be my biggest struggle as I attempted to grasp the concept
 
 As I progress through the bootcamp I look forward to connecting some of these puzzle pieces together, and climb my way out of the "Desert of Despair"
 
-***Thank you, and see you next week!
+***Thank you, and see you next week!***
 
 
 
