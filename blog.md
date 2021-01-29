@@ -1,6 +1,7 @@
 <h1>Week 1<h1>
 
 <h2>"Jumping off the cliff"<h2>
+
 ![Cliff](https://cms-tes-platform-v2-production.s3.eu-west-1.amazonaws.com/s3fs-public/styles/news_article_ml_x2/public/media/image/2020-02/Jump%20off%20a%20cliff.jpg?h=30c92080&itok=YahBX3Lz)
 
 
