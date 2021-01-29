@@ -1,4 +1,4 @@
-Welcome to my blog!
+# Welcome to my blog!
 
 This is where I will be documenting my journey towards becoming a full stack web developer. I plan to update this blog weekly, and continue improving its format as I learn more.
 
