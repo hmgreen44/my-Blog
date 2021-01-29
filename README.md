@@ -1,1 +1,1 @@
-# This is my first repo for my weekly blog!
+# This is the repo for my blog!
