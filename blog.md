@@ -5,9 +5,9 @@
 ![Cliff](https://cms-tes-platform-v2-production.s3.eu-west-1.amazonaws.com/s3fs-public/styles/news_article_ml_x2/public/media/image/2020-02/Jump%20off%20a%20cliff.jpg?h=30c92080&itok=YahBX3Lz)
 
 
-The first week of prework has mainly been introducing important programs, websites, and software that we will be using throughout my career as a developer. Monday I enjoyed meeting all of my fellow bootcampers. We all introduced ourselves and then went over the course material for the bootcamp, as well as the format of the classes.
+The first week of prework has mainly been introducing important programs, websites, and software that I will be using throughout my career as a developer. Monday I enjoyed meeting all of my fellow bootcampers, and taking a look at the Awesome Inc workspace. We all introduced ourselves and then went over the course material for the bootcamp, as well as the format of the classes.
 
-The week was about what I expected. I enjoyed that we quickly dived into how developers work collaboratively together using git through the powerful site Github.
+This first week was about what I expected - drinking from a firehose. I enjoyed that we quickly dived into how developers work collaboratively together using git through the powerful site Github, and the fast paced learning style...*It can just be a bit overwhelming*
 
 ![Github](https://miro.medium.com/max/719/1*WaaXnUvhvrswhBJSw4YTuQ.png)
 
